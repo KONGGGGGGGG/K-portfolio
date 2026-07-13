@@ -73,6 +73,6 @@ coming soon .... 👁️👄👁️
 
 ---
 
-## 📝 License
+## 📄 License
 
-This project is for learning and personal portfolio purposes.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
