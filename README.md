@@ -2,15 +2,25 @@ My personal portfolio website build with astro.
 
 > A project to learn modern web devlopment and showcase my work.
 
-Badges
+![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Last Commit](https://img.shields.io/github/last-commit/KONGGGGGGGGG/K-portfolio)
 
-Stars
-Last Commit
-Astro
-License
+
 ---
 
-## Tech Stack
+# preview
+
+coming soon ..... 👁️👄👁️
+
+---
+
+## 🧑‍💻Tech Stack
 
 - Astro
 - HTML5
@@ -21,7 +31,7 @@ License
 
 ---
 
-## Goals
+## 🎉Goals
 - [x] Learn Git & Github
 - [x] Initialize Astro
 - [ ] Build Homepage
@@ -34,14 +44,35 @@ License
 
 ---
 
-### Project Structurc
+### ⚙️Project Structurc
 
 ``` text
-
 src/
-    pages/
-    components/
-    layouts/
-    assets/
+├── assets/
+├── components/
+├── layouts/
+├── pages/
+├── scripts/
+└── styles/
 
 ```
+## 📅 Development Log
+
+| Version | Status | Description |
+|----------|---------|-------------|
+| v0.0001 | ✅ | Create Repository |
+| v0.0002 | ✅ | Initialize Astro |
+| v0.0003 | 🚧 | README.md v1.0 |
+| v0.0004 | 🚧 | Build Homepage |
+
+--- 
+
+# live Website
+
+coming soon .... 👁️👄👁️
+
+---
+
+## 📝 License
+
+This project is for learning and personal portfolio purposes.
