@@ -9,7 +9,7 @@ My personal portfolio website build with astro.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Last Commit](https://img.shields.io/github/last-commit/KONGGGGGGGGG/K-portfolio)
+![Last Commit](https://img.shields.io/github/last-commit/KONGGGGGGGG/K-portfolio)
 
 
 ---
