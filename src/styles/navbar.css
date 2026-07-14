@@ -6,11 +6,12 @@
 
 .nav-links {
     list-style: none;
-    margin-left: 20px;
-    padding: 0;
+    z-index: 1000;
+    padding: 10px;
     display: flex;
-    gap: 20px;
+    position: sticky;
     text-align: center;
+    justify-content: center;
     
     #home {
         text-decoration: none;
@@ -21,21 +22,25 @@
     #About {
         text-decoration: none;
         color:black;
+        margin: 5px 10px;
     }
 
     #Projects {
         text-decoration: none;
         color:black;
+        margin: 5px 10px;
     }
 
     #Contact {
         text-decoration: none;
         color:black;
+        margin: 5px 10px;
     }
 
     #Blog {
         text-decoration: none;
         color:black;
+        margin: 5px 10px;
     }
 
 }
