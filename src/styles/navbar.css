@@ -1,0 +1,41 @@
+.navbar {
+    border: 1px solid black;
+    display: flex;
+    padding: 10px;
+}
+
+.nav-links {
+    list-style: none;
+    margin-left: 20px;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    
+    #home {
+        text-decoration: none;
+        color:black;
+        margin: 5px 10px;
+    }
+
+    #About {
+        text-decoration: none;
+        color:black;
+    }
+
+    #Projects {
+        text-decoration: none;
+        color:black;
+    }
+
+    #Contact {
+        text-decoration: none;
+        color:black;
+    }
+
+    #Blog {
+        text-decoration: none;
+        color:black;
+    }
+
+}

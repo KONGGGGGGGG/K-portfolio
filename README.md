@@ -62,7 +62,7 @@ src/
 |----------|---------|-------------|
 | v0.0001 | ✅ | Create Repository |
 | v0.0002 | ✅ | Initialize Astro |
-| v0.0003 | 🚧 | README.md v1.0 |
+| v0.0003 | ✅ | README.md v1.0 |
 | v0.0004 | 🚧 | Build Homepage |
 
 --- 
