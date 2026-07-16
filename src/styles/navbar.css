@@ -1,17 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans+Thai:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans+Thai:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@100;200;300;400;500;600;700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans+Thai:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
 .navbar {
-    border: 1px solid black;
     display: flex;
     padding: 10px;
+    text-align: center;
+    justify-content: center;
+    z-index: 1000;
+    top: 0;
+    font-family: "Noto Sans Thai", sans-serif;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-right: auto;
 }
 
 .nav-links {
     list-style: none;
-    z-index: 1000;
     padding: 10px;
     display: flex;
     position: sticky;
-    text-align: center;
-    justify-content: center;
     
     #home {
         text-decoration: none;
